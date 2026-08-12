@@ -1,0 +1,31 @@
+# PANDA-2 PUBLIC ACCESS LICENSE
+**Dynamic Augmented Ragdoll Training Sandbox (DARTS) Engine v1.0**
+
+Copyright (c) 2026 KageFuriku / KageFuriku's Personal AI Development Studio. All Rights Reserved.
+
+---
+
+### 1. GENERAL RESTRICTIONS
+Except as expressly authorized under Section 2 and Section 3, no party may reproduce, distribute, modify, create derivative works of, or use this repository for training artificial intelligence, machine learning, or neural network models.
+
+### 2. LIMITED INDIE DEVELOPER & AI TRAINING GRANT (PANDA-2)
+Subject to the terms of this License, Independent Developers are granted a non-exclusive, world-wide, royalty-free license to use, modify, process, and train conversational, embodied, or streaming AI models (e.g., real-time stream agents, VTuber AI systems, personal virtual companions, or mechatronic simulation agents) using the DARTS Engine source code and framework.
+
+* **a. Independent Developer Definition:** An "Independent Developer" is defined as any individual or legal entity with less than **£50,000 GBP / $50,000 USD** (or regional equivalent) in annual gross revenues across all commercial activities.
+* **b. Non-Transferability:** AI models, dataset exports, spatial motor-control weights, or derivative works created using this engine must not be sold, assigned, licensed, or transferred to any third-party corporation exceeding the revenue threshold set in Section 2a.
+* **c. Attribution Requirement:** Clear attribution to **KageFuriku / DARTS Engine** must be included in the public documentation, credits, or dataset disclosures of any AI persona or application built using this framework.
+
+### 3. EMBODIED VISION & MOTOR-CONTROL RIGHTS
+* **a. Scope of Use:** Licensees are granted the right to utilize the stereoscopic dual-camera depth-vision tools and dynamic ragdoll motor-control frameworks for training individual AI personas.
+* **b. Anti-Competition Clause:** Raw engine source code, modified DARTS runtime binaries, or core physics components may **not** be repackaged, rebranded, or distributed as a standalone competing AI training sandbox or SDK.
+### 4. INDIE STREAMING EXEMPTION
+AI models, neural network weights, or synthetic agents trained within the DARTS Engine exclusively for real-time live streaming, interactive broadcasting, or personal companion deployment (e.g., VTuber personas, autonomous stream agents) are fully exempt from commercial licensing fees, regardless of live stream channel revenue (e.g., subscriptions, donations, bits), provided the operating entity remains an Independent Developer under Section 2a.
+
+### 5. COMMERCIAL REVOCATION & ENTERPRISE TRANSITION
+If an AI model, synthetic persona, motor-control weight, or dataset trained using the DARTS Engine is acquired by, licensed to, or developed in partnership with a commercial studio, enterprise, or entity exceeding the revenue threshold in Section 2a:
+* **a.** The PANDA-2 Indie Exemption is immediately nullified.
+* **b.** Continued operational or commercial use of the derived weights, code, or SDK requires a separately negotiated **Commercial End-User License Agreement (EULA)**.
+* **c.** Failure to execute a Commercial EULA upon exceeding the threshold results in immediate termination of all rights granted under this License.
+
+### 6. TERMINATION
+Any breach of the conditions outlined in this License automatically revokes all permissions granted herein with immediate effect.
